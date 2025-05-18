@@ -15,6 +15,8 @@ Usamos agentes de IA (tipo uns robozinhos muito espertos!) que conversam entre s
 
 **Começando a usar (É super fácil!)**
 
+**Você também pode testar o projeto online no Hugging Face Spaces: https://huggingface.co/spaces/MatteusMoroni/ai-finance-app**
+
 1.  **Clone este repositório:** Traga o código para a sua máquina!
 2.  **Configure sua API Key:** Você vai precisar da sua Google API Key para a IA funcionar. (A gente te ajuda com isso, não se preocupe!) 🔑
 3.  **Rode o código:** Prepare-se para ver a mágica acontecer!
